@@ -1,0 +1,11 @@
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\bin\Debug\net8.0\LibraryMS.Core.deps.json
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\bin\Debug\net8.0\LibraryMS.Core.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\bin\Debug\net8.0\LibraryMS.Core.pdb
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\LibraryMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\LibraryMS.Core.AssemblyInfoInputs.cache
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\LibraryMS.Core.AssemblyInfo.cs
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\LibraryMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\LibraryMS.Core.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\refint\LibraryMS.Core.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\LibraryMS.Core.pdb
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\obj\Debug\net8.0\ref\LibraryMS.Core.dll

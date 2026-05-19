@@ -1,0 +1,17 @@
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\bin\Debug\net8.0\LibraryMS.Services.deps.json
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\bin\Debug\net8.0\LibraryMS.Services.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\bin\Debug\net8.0\LibraryMS.Services.pdb
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\bin\Debug\net8.0\LibraryMS.Core.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\bin\Debug\net8.0\LibraryMS.Data.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\bin\Debug\net8.0\LibraryMS.Core.pdb
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\bin\Debug\net8.0\LibraryMS.Data.pdb
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryMS.Services.csproj.AssemblyReference.cache
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryMS.Services.AssemblyInfoInputs.cache
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryMS.Services.AssemblyInfo.cs
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryM.D9730141.Up2Date
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryMS.Services.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\refint\LibraryMS.Services.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\LibraryMS.Services.pdb
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Services\obj\Debug\net8.0\ref\LibraryMS.Services.dll

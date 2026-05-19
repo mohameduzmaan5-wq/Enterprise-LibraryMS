@@ -1,0 +1,3 @@
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\bin\Release\net8.0\publish\LibraryMS.Core.dll
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\bin\Release\net8.0\publish\LibraryMS.Core.deps.json
+C:\Users\uzmaa\.antigravity\LibraryMS\src\LibraryMS.Core\bin\Release\net8.0\publish\LibraryMS.Core.pdb
