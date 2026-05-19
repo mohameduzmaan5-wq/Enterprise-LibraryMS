@@ -27,3 +27,22 @@ A premium enterprise-level desktop Library Management System built using C#, .NE
 ## Author
 
 Mohamed Uzmaan
+## Screenshots
+
+### Login
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Books
+![Books](books.png)
+
+### Members
+![Members](members.png)
+
+### Loans
+![Loans](loans.png)
+
+### Reports
+![Reports](reports.png)
